@@ -1,0 +1,7 @@
+
+/*
+* To show lazy load images with fading effect
+*/
+.wpl_lazyimg{
+opacity:0.2;filter:alpha(opacity=20);
+}
