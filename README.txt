@@ -28,3 +28,7 @@ There are no settings or code changes required on your end. Just activate the pl
 = Does it cause any side effects to my blog ? =
 
 No at all! Infact this will help you to reduce the page loading speed of you blog or website.
+
+= Does it work on all browsers ? =
+
+Yes. this plugin will work on all browsers except IE8 and other older versions.
